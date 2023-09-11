@@ -14,3 +14,7 @@
 - Highest sales were done in New York followed by Los Angeles.
 - In the western Region maximum sales were done.
 - Maximum Profit was made by Technology and Furniture.
+
+# Challanges Faced
+- Duplicate Data Issue: Encountered delays due to duplicate data in the scraping process.
+- Designing an effective data model was complex, because of the complex datasets.
