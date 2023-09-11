@@ -1,5 +1,5 @@
 # Sample_Super_Store_Dashboard
- Conducted Analysis of Sales and Profit with respect to different features like Category and Sub-Category using Power BI.
+Performed a comprehensive sales and profit analysis in Power BI, examining various aspects such as product category and sub-category. This analysis provided valuable insights into the performance and profitability of different product segments, helping to make informed business decisions.
 # Analysis
 - Sum of the sales by city
 - Sum of Sales by Region
@@ -11,7 +11,7 @@
 
 ![Screenshot 2023-08-07 130123](https://github.com/ankitpal154/Power_BI_project/assets/139064260/c8345c22-5a28-410d-aaaf-36840130ab0f)
 # Coclusion
-- Highest sales were done in New York followed by Los Angeles.
+The highest sales were done in New York followed by Los Angeles.
 - In the western Region maximum sales were done.
 - Maximum Profit was made by Technology and Furniture.
 
